@@ -105,3 +105,11 @@ x509.genkey
 System.map
 vmlinux
 
+mmpram
+mmtxtpram
+mlupram
+mapfile
+mmext
+mmtxtext
+mluext
+workspace/*
